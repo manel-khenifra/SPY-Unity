@@ -1,0 +1,30 @@
+{
+    "action": {},
+    "activity": {},
+    "content": {},
+    "direction": {},
+    "domain": {},
+    "extension": {
+        "duration": {
+            "description": {
+                "en-US": ""
+            },
+            "id": "https://www.lip6.fr/mocah/invaliduri/extensions/type",
+            "name": {
+                "en-US": "duration"
+            }
+        }
+    },
+    "focus": {},
+    "grade": {},
+    "link": {},
+    "position": {},
+    "skills": {},
+    "state": {},
+    "subdomain": {},
+    "time": {},
+    "topic": {},
+    "type": {},
+    "value": {},
+    "verb": {}
+}
